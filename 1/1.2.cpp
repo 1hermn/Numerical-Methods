@@ -200,5 +200,4 @@ int main() {
         cout << i << setw(12);
     }
     return 0;
-
 }
